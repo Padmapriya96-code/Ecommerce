@@ -219,4 +219,4 @@ C:\Users\bpadm\source\repos\Ecommerce\Ecommerce\obj\Debug\net8.0\rjsmrazor.dswa.
 C:\Users\bpadm\source\repos\Ecommerce\Ecommerce\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\bpadm\source\repos\Ecommerce\Ecommerce\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\bpadm\source\repos\Ecommerce\Ecommerce\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\bpadm\source\repos\Ecommerce\Ecommerce\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bpadm\source\repos\Ecommerce\Ecommerce\obj\Debug\net8.0\Ecommerce.sourcelink.json

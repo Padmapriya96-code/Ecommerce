@@ -6,3 +6,6 @@ node_modules/
 *.suo
 node_modules/
 .vs/Ecommerce/FileContentIndex/8e60d7ab-25e0-400b-867f-70e978b323a2.vsidx
+.vs/Ecommerce/FileContentIndex/
+.vs/Ecommerce/CopilotIndices/0.2.1772.47927/CodeChunks.db-wal
+.vs/Ecommerce/CopilotIndices/0.2.1772.47927/SemanticSymbols.db-wal
