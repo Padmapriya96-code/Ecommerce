@@ -1,0 +1,8 @@
+﻿.vs/
+bin/
+obj/
+node_modules/
+*.user
+*.suo
+node_modules/
+.vs/Ecommerce/FileContentIndex/8e60d7ab-25e0-400b-867f-70e978b323a2.vsidx
